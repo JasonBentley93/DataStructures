@@ -1,5 +1,12 @@
 package JUnitTests;
 
+/******************************************************************
+ * <p> This class was provided in my Data Structures class in order
+ *     to test my own code...
+ *     I DID NOT WRITE THE CODE IN THIS JUNIT TEST
+ * </p>
+ ******************************************************************/
+
 import org.junit.jupiter.api.Test;
 
 import java.util.Random;
