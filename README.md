@@ -7,5 +7,5 @@ This inculdes:
 - Search and Sort Algorithms (Recursive, Iterative, Generic)
 - Print Tests
 
-NOTE: I did not write the Points class, Rectangle class, or and of the JUNIT tests
-      there were all provided by the instructor in order to test my code.
+NOTE: I did not write the Points class, Rectangle class, or any of the JUNIT tests.
+      These were all provided by the instructor in order to test my code.
